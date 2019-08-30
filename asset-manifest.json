@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/breakout-react/static/js/main.87f7ff53.chunk.js",
+    "main.js.map": "/breakout-react/static/js/main.87f7ff53.chunk.js.map",
+    "runtime~main.js": "/breakout-react/static/js/runtime~main.d02f7236.js",
+    "runtime~main.js.map": "/breakout-react/static/js/runtime~main.d02f7236.js.map",
+    "static/js/2.9c20abf9.chunk.js": "/breakout-react/static/js/2.9c20abf9.chunk.js",
+    "static/js/2.9c20abf9.chunk.js.map": "/breakout-react/static/js/2.9c20abf9.chunk.js.map",
+    "index.html": "/breakout-react/index.html",
+    "precache-manifest.aa9308024e82d7b1cca7fdb133f497ee.js": "/breakout-react/precache-manifest.aa9308024e82d7b1cca7fdb133f497ee.js",
+    "service-worker.js": "/breakout-react/service-worker.js"
+  }
+}
